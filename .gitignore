@@ -1,0 +1,10 @@
+*.md
+*.dat
+*.gpt
+*.o
+*.py
+*.pdf
+main
+log
+data/
+__pycache__/
